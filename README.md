@@ -1,6 +1,6 @@
 # Vôľa
 Rydzo slovensky programovaci jazyk
-We love the ô
+Because we love the ô
 ***
 
 
